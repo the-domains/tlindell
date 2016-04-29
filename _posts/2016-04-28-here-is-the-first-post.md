@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: This is the beginning of my journey to writing AR and AI code.
-datePublished: '2016-04-29T19:32:30.212Z'
-dateModified: '2016-04-29T19:32:06.658Z'
+datePublished: '2016-04-29T19:34:30.666Z'
+dateModified: '2016-04-29T19:34:23.623Z'
 title: ''
 author: []
 authors: []
