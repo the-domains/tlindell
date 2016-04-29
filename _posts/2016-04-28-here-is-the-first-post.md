@@ -4,17 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Here is the first post!'
-datePublished: '2016-04-28T17:24:35.225Z'
-dateModified: '2016-04-28T17:24:15.245Z'
+description: This is the beginning of my journey to writing AR and AI code.
+datePublished: '2016-04-29T19:32:30.212Z'
+dateModified: '2016-04-29T19:32:06.658Z'
+title: ''
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
 sourcePath: _posts/2016-04-28-here-is-the-first-post.md
 published: true
@@ -22,4 +22,4 @@ url: here-is-the-first-post/index.html
 _type: Article
 
 ---
-Here is the first post!
+This is the beginning of my journey to writing AR and AI code.
