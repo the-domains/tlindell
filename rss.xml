@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tyler Lindell]]></title>
         <description><![CDATA[Tyler Lindell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 17:24:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 19:38:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Here is the first post!</p>]]></description>
-            <link>undefinedhere-is-the-first-post/index.html</link>
+            <title><![CDATA[Hello World!]]></title>
+            <description><![CDATA[<p>This is the beginning of my journey to writing AR and AI code.</p>]]></description>
+            <link>https://thegrid.ai/tlindell/here-is-the-first-post/index.html</link>
             <guid isPermaLink="false">10c6693e-d76a-42ae-a83f-1c25393c5881</guid>
-            <pubDate>Thu, 28 Apr 2016 17:24:35 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 19:32:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
