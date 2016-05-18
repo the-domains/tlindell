@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I found and started using an awesome .NET profiler called Prefix by @Stackify
-datePublished: '2016-05-18T04:05:16.500Z'
-dateModified: '2016-04-29T22:05:01.729Z'
+datePublished: '2016-05-18T04:13:31.962Z'
+dateModified: '2016-05-18T04:13:13.463Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,6 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6c1c7f48e59670a2a550941ce623ea1dbb0daa3.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c0ca7c5-90d7-4346-9371-96f88489ef9e.png)
 
 I found and started using an awesome .NET profiler called Prefix by [@Stackify][0]
 
