@@ -4,14 +4,14 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 15:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 18:54:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Using React to Display Information from Multiple Sources]]></title>
             <description><![CDATA[<p>Using React.js to eager load and cache tabulated pages makes information available to users immediately. I chose React for it's speed and simplicity. Multiple ajax calls being active at the same time, data being returned after various lengths of time, then cached once each returned - React made it simpler and faster.</p>]]></description>
             <link>https://thegrid.ai/tlindell/using-reactjs-to-eager-load-and-cache-tabulated-pages-makes/index.html</link>
             <guid isPermaLink="false">494655ac-5240-4185-8058-a56846a0666a</guid>
-            <pubDate>Wed, 18 May 2016 15:42:01 GMT</pubDate>
+            <pubDate>Wed, 18 May 2016 18:54:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
