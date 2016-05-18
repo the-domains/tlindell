@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Using React.js to eager load and cache tabulated pages makes information available to users immediately. I chose React for it's speed and simplicity. Multiple ajax calls being active at the same time, data being returned after various lengths of time, then cached once each returned - React made it simpler and faster."
-datePublished: '2016-05-18T05:33:33.428Z'
-dateModified: '2016-05-18T05:30:51.239Z'
+datePublished: '2016-05-18T05:38:26.912Z'
+dateModified: '2016-05-18T05:33:40.163Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-using-reactjs-to-eager-load-and-cache-tabulated-pages-makes.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-18-using-reactjs-to-eager-load-and-cache-tabulated-pages-makes.md
 url: using-reactjs-to-eager-load-and-cache-tabulated-pages-makes/index.html
 _type: Article
 
