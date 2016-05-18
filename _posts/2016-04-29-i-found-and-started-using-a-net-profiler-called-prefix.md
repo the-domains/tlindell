@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I found and started using an awesome .NET profiler called Prefix by @Stackify
-datePublished: '2016-04-29T22:04:50.404Z'
-dateModified: '2016-04-29T22:04:44.485Z'
+datePublished: '2016-05-18T04:05:16.500Z'
+dateModified: '2016-04-29T22:05:01.729Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-29-i-found-and-started-using-a-net-profiler-called-prefix.md
-published: true
 authors: []
 publisher:
   name: null
