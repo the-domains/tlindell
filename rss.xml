@@ -4,7 +4,7 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 05:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 05:33:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tlindell/working-with-apiai-for-voice-recognition-in-unity3d-for-my/index.html</link>
             <guid isPermaLink="false">67f92761-f5ef-46bb-96ee-eacce2c93f38</guid>
             <pubDate>Wed, 18 May 2016 04:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Using React.js to eager load and cache tabulated pages makes information available to users immediately. I chose React for it's speed and simplicity. Multiple ajax calls being active at the same time, data being returned after various lengths of time, then cached once each returned - React made it simpler and faster.</p>]]></description>
+            <link>https://thegrid.ai/tlindell/using-reactjs-to-eager-load-and-cache-tabulated-pages-makes/index.html</link>
+            <guid isPermaLink="false">494655ac-5240-4185-8058-a56846a0666a</guid>
+            <pubDate>Wed, 18 May 2016 05:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Calling Services using Natural Language]]></title>
