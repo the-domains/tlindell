@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I found and started using an awesome .NET profiler called Prefix by @Stackify
-datePublished: '2016-05-18T19:26:31.341Z'
-dateModified: '2016-05-18T19:25:28.906Z'
+datePublished: '2016-05-18T19:27:04.636Z'
+dateModified: '2016-05-18T19:27:00.252Z'
 title: ''
 author:
   - name: ''
