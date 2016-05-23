@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Plan and build visual use case database for The Augmented Reality for Enterprise Alliance (AREA). The AREA is the only global non-profit, member-based organization dedicated to widespread adoption of interoperable AR-enabled enterprise systems.'
-datePublished: '2016-05-23T17:45:02.205Z'
-dateModified: '2016-05-23T17:44:33.893Z'
+datePublished: '2016-05-23T17:46:28.906Z'
+dateModified: '2016-05-23T17:45:17.178Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-23-plan-and-build-visual-use-case-database-for-the-augmented-re.md
