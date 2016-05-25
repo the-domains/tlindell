@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Working with Torch, although the common complaint is that it uses Lua, is really not hard to read and understand. Developers should have an easy time adopting the language. One thing to watch for is that indices begin with one not zero.'
-datePublished: '2016-05-25T14:01:33.297Z'
-dateModified: '2016-05-25T14:01:23.971Z'
+datePublished: '2016-05-25T14:02:59.307Z'
+dateModified: '2016-05-25T14:01:50.330Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-working-with-torch-although-the-common-complaint-is-that-it.md
