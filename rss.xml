@@ -4,7 +4,7 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 05:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 17:53:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Using React to Display Information from Multiple Sources]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<p>Installing Torch started out easy but using it has been tough! Not because the language is challenging or the stuff I am working on is hard - Making sure the right packages I need are installed has been the biggest hurdle. This may not be something that effects everyone but I have gone through the ringer with various dependencies not working correctly or not being installed. From there I investigate what the issue could be and where I can repair my happy-path. </p>]]></description>
             <link>https://thegrid.ai/tlindell/installing-torch-started-out-easy-but-using-it-has-been-toug/index.html</link>
             <guid isPermaLink="false">f5792b5a-ac3e-4699-bddd-259b69aa0e97</guid>
-            <pubDate>Fri, 27 May 2016 05:27:44 GMT</pubDate>
+            <pubDate>Fri, 27 May 2016 17:53:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Torch utilizes Lua - fear not]]></title>
