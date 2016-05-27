@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Installing Torch started out easy but using it has been tough! Not because the language is challenging or the stuff I am working on is hard - Making sure the right packages I need are installed has been the biggest hurdle. This may not be something that effects everyone but I have gone through the ringer with various dependencies not working correctly or not being installed. From there I investigate what the issue could be and where I can repair my happy-path. '
-datePublished: '2016-05-27T04:32:56.694Z'
-dateModified: '2016-05-27T04:32:45.741Z'
+datePublished: '2016-05-27T04:38:32.505Z'
+dateModified: '2016-05-27T04:38:30.026Z'
 title: ''
 author: []
 authors: []
@@ -17,7 +17,8 @@ url: installing-torch-started-out-easy-but-using-it-has-been-toug/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e89433c3-a574-48c1-931e-845937e74c55.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baa7c790-c15c-4d57-a069-cfae2dadeb40.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e017d469-5e43-42d4-92d4-51d65bbac221.png)
 
 Installing Torch started out easy but using it has been tough! Not because the language is challenging or the stuff I am working on is hard - Making sure the right packages I need are installed has been the biggest hurdle. This may not be something that effects everyone but I have gone through the ringer with various dependencies not working correctly or not being installed. From there I investigate what the issue could be and where I can repair my happy-path. 
 
