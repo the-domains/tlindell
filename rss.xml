@@ -4,14 +4,14 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 21:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 21:35:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contributing to the Torch project]]></title>
             <description><![CDATA[<p>Contributing to the Torch project by implementing Mac support for Facebook's TH++, a C++ tensor library implemented as a wrapper around the TH library ((the low-level tensor library in Torch).</p>]]></description>
             <link>https://thegrid.ai/tlindell/contributing-to-the-torch-project/index.html</link>
             <guid isPermaLink="false">58a07d2b-5322-4900-b55c-fa8751be0a76</guid>
-            <pubDate>Thu, 02 Jun 2016 21:25:13 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 21:35:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using React to Display Information from Multiple Sources]]></title>
