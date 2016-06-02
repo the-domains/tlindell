@@ -25,7 +25,7 @@
             <description><![CDATA[<p>Contributing to the Torch project by implementing Mac support for Facebook's TH++, a C++ tensor library implemented as a wrapper around the TH library ((the low-level tensor library in Torch).</p>]]></description>
             <link>https://thegrid.ai/tlindell/contributing-to-the-torch-project/index.html</link>
             <guid isPermaLink="false">58a07d2b-5322-4900-b55c-fa8751be0a76</guid>
-            <pubDate>Thu, 02 Jun 2016 21:19:08 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 21:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Installing Torch - easy! Resolving Dependencies....]]></title>
