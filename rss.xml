@@ -4,8 +4,15 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 21:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 21:25:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contributing to the Torch project]]></title>
+            <description><![CDATA[<p>Contributing to the Torch project by implementing Mac support for Facebook's TH++, a C++ tensor library implemented as a wrapper around the TH library ((the low-level tensor library in Torch).</p>]]></description>
+            <link>https://thegrid.ai/tlindell/contributing-to-the-torch-project/index.html</link>
+            <guid isPermaLink="false">58a07d2b-5322-4900-b55c-fa8751be0a76</guid>
+            <pubDate>Thu, 02 Jun 2016 21:25:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using React to Display Information from Multiple Sources]]></title>
             <description><![CDATA[<p>Using React.js to eager load and cache tabulated pages makes information available to users immediately. I chose React for it's speed and simplicity. Multiple ajax calls being active at the same time, data being returned after various lengths of time, then cached once each returned - React made it simpler and faster.</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/tlindell/working-with-apiai-for-voice-recognition-in-unity3d-for-my/index.html</link>
             <guid isPermaLink="false">67f92761-f5ef-46bb-96ee-eacce2c93f38</guid>
             <pubDate>Wed, 18 May 2016 04:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Contributing to the Torch project by implementing Mac support for Facebook's TH++, a C++ tensor library implemented as a wrapper around the TH library ((the low-level tensor library in Torch).</p>]]></description>
-            <link>https://thegrid.ai/tlindell/contributing-to-the-torch-project/index.html</link>
-            <guid isPermaLink="false">58a07d2b-5322-4900-b55c-fa8751be0a76</guid>
-            <pubDate>Thu, 02 Jun 2016 21:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Installing Torch - easy! Resolving Dependencies....]]></title>
