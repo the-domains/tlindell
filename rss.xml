@@ -4,7 +4,7 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 17:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 21:20:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Using React to Display Information from Multiple Sources]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/tlindell/working-with-apiai-for-voice-recognition-in-unity3d-for-my/index.html</link>
             <guid isPermaLink="false">67f92761-f5ef-46bb-96ee-eacce2c93f38</guid>
             <pubDate>Wed, 18 May 2016 04:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contributing to the Torch project]]></title>
+            <description><![CDATA[<p>Contributing to the Torch project by implementing Mac support for Facebook's TH++, a C++ tensor library implemented as a wrapper around the TH library ((the low-level tensor library in Torch).</p>]]></description>
+            <link>https://thegrid.ai/tlindell/contributing-to-the-torch-project/index.html</link>
+            <guid isPermaLink="false">58a07d2b-5322-4900-b55c-fa8751be0a76</guid>
+            <pubDate>Thu, 02 Jun 2016 21:19:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Installing Torch - easy! Resolving Dependencies....]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/tlindell/starting-my-first-augmented-reality-project-working-with-en/index.html</link>
             <guid isPermaLink="false">fc41ede9-b1a8-4ccf-ba89-aa9a4ba4d03b</guid>
             <pubDate>Wed, 18 May 2016 05:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The beginning of a journey]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1888b46-2650-4884-995d-96e28c483feb.jpg">]]></description>
-            <link>https://thegrid.ai/tlindell/here-is-the-first-post/index.html</link>
-            <guid isPermaLink="false">10c6693e-d76a-42ae-a83f-1c25393c5881</guid>
-            <pubDate>Fri, 29 Apr 2016 19:51:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
