@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Contributing to the Torch project by implementing Mac support for Facebook's TH++, a C++ tensor library implemented as a wrapper around the TH library ((the low-level tensor library in Torch)."
-datePublished: '2016-06-02T21:25:13.816Z'
-dateModified: '2016-06-02T21:24:56.288Z'
+datePublished: '2016-06-02T21:35:13.409Z'
+dateModified: '2016-06-02T21:25:23.978Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-02-contributing-to-the-torch-project-by-implementing-mac-suppor.md
