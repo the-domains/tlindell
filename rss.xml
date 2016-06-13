@@ -4,7 +4,7 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 04:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 04:45:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contributing to the Torch project]]></title>
@@ -32,7 +32,7 @@
             <description><![CDATA[<p>Here are a few hosting solutions I found for deep learning (have a favorite?) </p>]]></description>
             <link>https://thegrid.ai/tlindell/here-are-a-few-hosting-solutions-i-found-for-deep-learning/index.html</link>
             <guid isPermaLink="false">319dd1ef-bfe2-4d97-b6a6-1ca9fdf2ef4e</guid>
-            <pubDate>Mon, 13 Jun 2016 04:45:11 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2016 04:45:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Installing Torch - easy! Resolving Dependencies....]]></title>
