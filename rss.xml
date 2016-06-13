@@ -4,7 +4,7 @@
         <description><![CDATA[Tyler Lindell]]></description>
         <link>https://thegrid.ai/tlindell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 21:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 04:45:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tlindell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contributing to the Torch project]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/tlindell/working-with-apiai-for-voice-recognition-in-unity3d-for-my/index.html</link>
             <guid isPermaLink="false">67f92761-f5ef-46bb-96ee-eacce2c93f38</guid>
             <pubDate>Wed, 18 May 2016 04:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Here are a few hosting solutions I found for deep learning (have a favorite?) </p>]]></description>
+            <link>https://thegrid.ai/tlindell/here-are-a-few-hosting-solutions-i-found-for-deep-learning/index.html</link>
+            <guid isPermaLink="false">319dd1ef-bfe2-4d97-b6a6-1ca9fdf2ef4e</guid>
+            <pubDate>Mon, 13 Jun 2016 04:45:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Installing Torch - easy! Resolving Dependencies....]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/tlindell/i-found-and-started-using-a-net-profiler-called-prefix/index.html</link>
             <guid isPermaLink="false">dd6edc28-f0f2-40df-9ce6-a1964bf89a89</guid>
             <pubDate>Wed, 18 May 2016 19:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calling Services Using Natural Language]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc166c5b-3655-4f03-85bb-a2c931c88179.png">]]></description>
-            <link>https://thegrid.ai/tlindell/starting-my-first-augmented-reality-project-working-with-en/index.html</link>
-            <guid isPermaLink="false">fc41ede9-b1a8-4ccf-ba89-aa9a4ba4d03b</guid>
-            <pubDate>Wed, 18 May 2016 05:37:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
