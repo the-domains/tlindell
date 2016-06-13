@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Here are a few hosting solutions I found for deep learning (have a favorite?) '
-datePublished: '2016-06-13T04:45:11.601Z'
-dateModified: '2016-06-13T04:45:02.402Z'
+datePublished: '2016-06-13T04:45:28.788Z'
+dateModified: '2016-06-13T04:45:20.860Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-13-here-are-a-few-hosting-solutions-i-found-for-deep-learning.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-13-here-are-a-few-hosting-solutions-i-found-for-deep-learning.md
 url: here-are-a-few-hosting-solutions-i-found-for-deep-learning/index.html
 _type: Article
 
